@@ -16,8 +16,8 @@
 
 扫描二维码：
 
-![qq_group_qr_code](/img/qq_group.jpg)
+![qq_group_qr_code](https://s1.ax1x.com/2022/04/22/LRULOH.png)
 
 ## 微信群
 
-![wx_holger_qr_code](/img/wx_group.jpg)
+![wx_holger_qr_code](https://s1.ax1x.com/2022/04/22/LRUj0A.png)

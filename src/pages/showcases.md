@@ -1,13 +1,13 @@
 # 图库
 
-![castle](/img/hero.png)
+![castle](https://s1.ax1x.com/2022/04/22/LRUhwR.png)
 
-![underbowl](https://cdn.jsdelivr.net/gh/holgerhuo/cdn/picgo/underbowl.png)
+![underbowl](https://s1.ax1x.com/2022/04/22/LRUyWT.png)
 
 
 
-![thehouse](https://cdn.jsdelivr.net/gh/holgerhuo/cdn/picgo/thehouse.png)
+![thehouse](https://s1.ax1x.com/2022/04/22/LRUBoq.png)
 
-![technology](https://cdn.jsdelivr.net/gh/holgerhuo/cdn/picgo/technology.png)
+![technology](https://s1.ax1x.com/2022/04/22/LRUsYV.png)
 
-![field](https://cdn.jsdelivr.net/gh/holgerhuo/cdn/picgo/field.png)
+![field](https://s1.ax1x.com/2022/04/22/LRUrF0.png)

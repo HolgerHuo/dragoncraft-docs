@@ -42,7 +42,7 @@ export default function Home() {
           <h2>这里是属于你的服务器，我们的世界，从现在开始。</h2>
           <div className={clsx('aspect', styles.aspect)}>
             padding
-            <iframe src="//minecraft.dragon-fly.club/" className={clsx('iframe', styles.iframe)}></iframe>
+            <iframe src="//dynmap.weblogcomm.ltd/" className={clsx('iframe', styles.iframe)}></iframe>
           </div>
         </div>
       </main>

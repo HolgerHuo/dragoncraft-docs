@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DragonCraft 菠萝俱乐部',
   tagline: '一个属于你的世界',
-  url: 'https://docs.minecraft.dragon-fly.club',
+  url: 'https://minecraft.dragon-fly.club',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -60,7 +60,7 @@ const config = {
           { to: '/activities', label: '活动', position: 'left' },
           { to: '/showcases', label: '图库', position: 'left' },
           { to: '/contact', label: '联系', position: 'left' },
-          { to: 'https://minecraft.dragon-fly.club/', label: 'Dynmap(Premium)', position: 'left' },
+          { to: 'https://dynmap.weblogcomm.ltd/', label: 'Dynmap(Premium)', position: 'left' },
           {
             href: 'https://mast.dragon-fly.club/about',
             label: 'Island 岛屿',

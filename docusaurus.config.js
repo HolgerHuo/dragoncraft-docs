@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/favicon.ico',
-  organizationName: 'holgerhuo', // Usually your GitHub org/user name.
+  organizationName: 'dragonfly-club', // Usually your GitHub org/user name.
   projectName: 'dragoncraft-docs', // Usually your repo name.
 
   presets: [
@@ -60,7 +60,7 @@ const config = {
           { to: '/activities', label: '活动', position: 'left' },
           { to: '/showcases', label: '图库', position: 'left' },
           { to: '/contact', label: '联系', position: 'left' },
-          { to: 'https://dynmap.weblogcomm.ltd/', label: 'Dynmap(Premium)', position: 'left' },
+          { to: 'https://dynmap.weblogcomm.ltd/', label: 'Dynmap', position: 'left' },
           {
             href: 'https://mast.dragon-fly.club/about',
             label: 'Island 岛屿',
@@ -106,11 +106,11 @@ const config = {
             ],
           },
           {
-            title: '更多',
+            title: '友情链接',
             items: [
               {
-                label: '关注管理',
-                href: 'https://mast.dragon-fly.club/@holgerhuo',
+                label: 'Holger\'s Blog',
+                href: 'https://holger.one',
               },
             ],
           },

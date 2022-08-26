@@ -12,7 +12,7 @@
 
 当键入此指令时，服务端会返回你能操作的全部指令并配有详细说明。
 
-### AuthMe Reloaded (仅Public)
+<!--### AuthMe Reloaded (仅Public)
 
 AuthMe Reloaded是一款用户管理插件，当你初次登陆到DragonCraft时，请使用
 
@@ -38,7 +38,7 @@ SkinRestorer是用来在DragonCraft中显示用户皮肤的插件。
 
 `/skin url <皮肤链接>`
 
-设置皮肤。
+设置皮肤。-->
 
 ### Nick
 
@@ -66,7 +66,8 @@ Msg指令可以用来与玩家私信
 
 ## 客户端安装
 
-对于正版用户，请下载[Minecraft Launcher](https://www.minecraft.net/en-us/download)；
+请下载[Minecraft Launcher](https://www.minecraft.net/en-us/download)；
 
+<!--
 对于离线用户，电脑端可参考[HMCL教程](https://zhuanlan.zhihu.com/p/162956855)安装Hello MineCraft Launcher；Android端请[点此下载](https://link.jscdn.cn/sharepoint/aHR0cHM6Ly93ZWJsb2djb21tLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2hvbGdlcmh1b193ZWJsb2djb21tX2x0ZC9FVW8wUXF3MjZ2QkhoYmtGcFlZcVRJd0JGcy1WZFNaMWlGa0hrLVVSZDRRZ0JRP2U9QWNmSkxC.apk)安装。
-
+->

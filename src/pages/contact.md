@@ -10,14 +10,4 @@
 
 ## 电子邮件
 
-[holgerhuo+craft@dragon-fly.club](mailto:holgerhuo+craft@dragon-fly.club)
-
-## QQ 群
-
-扫描二维码：
-
-![qq_group_qr_code](https://s1.ax1x.com/2022/04/22/LRULOH.png)
-
-## 微信群
-
-![wx_holger_qr_code](https://s1.ax1x.com/2022/04/22/LRUj0A.png)
+[contact+dragoncraft@dragon-fly.club](mailto:contact+dragoncraft@dragon-fly.club)

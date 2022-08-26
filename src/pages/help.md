@@ -70,4 +70,4 @@ Msg指令可以用来与玩家私信
 
 <!--
 对于离线用户，电脑端可参考[HMCL教程](https://zhuanlan.zhihu.com/p/162956855)安装Hello MineCraft Launcher；Android端请[点此下载](https://link.jscdn.cn/sharepoint/aHR0cHM6Ly93ZWJsb2djb21tLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2hvbGdlcmh1b193ZWJsb2djb21tX2x0ZC9FVW8wUXF3MjZ2QkhoYmtGcFlZcVRJd0JGcy1WZFNaMWlGa0hrLVVSZDRRZ0JRP2U9QWNmSkxC.apk)安装。
-->
+-->

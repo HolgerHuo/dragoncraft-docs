@@ -10,5 +10,5 @@ DragonCraft **欢迎**玩家贡献任何可行的活动方案、策划，在这�
 
 - 小书睿的生日趴体
 
-  <video width="100%" src="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly93ZWJsb2djb21tLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2hvbGdlcmh1b193ZWJsb2djb21tX2x0ZC9FZkEzT25QbXAyUlBrUkNlMXdiZW8xd0JGVG8ySEc2cmVmaHlkYTlnY1lEUllnP2U9Z3pneVFa.mp4" controls></video>
+  <video width="100%" src="https://cdn.dragoncloud.win/dragoncraft-docs/videos/martin-birthday.mp4" controls></video>
 

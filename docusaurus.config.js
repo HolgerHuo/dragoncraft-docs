@@ -60,7 +60,7 @@ const config = {
           { to: '/activities', label: '活动', position: 'left' },
           { to: '/showcases', label: '图库', position: 'left' },
           { to: '/contact', label: '联系', position: 'left' },
-          { to: 'https://dynmap.weblogcomm.ltd/', label: 'Dynmap', position: 'left' },
+          { to: 'https://dynmap.holger.net.cn/', label: 'Dynmap', position: 'left' },
           {
             href: 'https://mast.dragon-fly.club/about',
             label: 'Island 岛屿',

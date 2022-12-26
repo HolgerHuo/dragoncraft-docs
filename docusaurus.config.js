@@ -34,9 +34,9 @@ const config = {
     ],
   ],
   scripts: [
-    'https://stats.dragon-fly.club/umami.js',
+    'https://stats.dragoncloud.win/umami.js',
     {
-      src: 'https://stats.dragon-fly.club/umami.js',
+      src: 'https://stats.dragoncloud.win/umami.js',
       'data-website-id': '453a8f40-f90a-48b0-a129-1ea6c7d4695e',
       defer: true,
       async: true,

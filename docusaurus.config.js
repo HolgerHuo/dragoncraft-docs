@@ -41,7 +41,7 @@ const config = {
       async: true,
     },
     {
-      src: 'https://report.dragoncloud.win/js/script.js', 
+      src: 'https://report.dragoncloud.win/js/script.outbound-links.file-downloads.tagged-events.js', 
       defer: true, 
       'data-domain': 'minecraft.dragon-fly.club'
     }

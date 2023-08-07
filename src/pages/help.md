@@ -62,11 +62,25 @@ Msg指令可以用来与玩家私信
 
 `/msg <目标用户> <私信内容>`
 
+### Linkaccount
 
+此命令用于把基岩账号与Java账号相互绑定，绑定后在双端登录则会返回一致的游戏账号。
+
+使用前，请先将你的PE账号内容迁移至Java账号。
+
+1. 在Java端登入DragonCraft，并键入 `/linkaccount .<XBox Live Gametag>`；
+
+2. 在五分钟内在PE端键入刚刚返回的指令提示；
+
+3. 断开Java与PE Minecraft与DragonCraft连接；
+
+4. 重新登陆后，你的账号即被绑定。
 
 ## 客户端安装
 
-请下载[Minecraft Launcher](https://www.minecraft.net/en-us/download)；
+对于Java用户，请下载[Minecraft Launcher](https://www.minecraft.net/en-us/download)，并登入载有正版授权的Microsoft账号；
+
+对于PE用户，请从你的购买渠道下载Minecraft PE 并登入XBox Live账号。
 
 <!--
 对于离线用户，电脑端可参考[HMCL教程](https://zhuanlan.zhihu.com/p/162956855)安装Hello MineCraft Launcher；Android端请[点此下载](https://link.jscdn.cn/sharepoint/aHR0cHM6Ly93ZWJsb2djb21tLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2hvbGdlcmh1b193ZWJsb2djb21tX2x0ZC9FVW8wUXF3MjZ2QkhoYmtGcFlZcVRJd0JGcy1WZFNaMWlGa0hrLVVSZDRRZ0JRP2U9QWNmSkxC.apk)安装。

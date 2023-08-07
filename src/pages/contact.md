@@ -11,3 +11,7 @@
 ## 电子邮件
 
 [contact+dragoncraft@dragon-fly.club](mailto:contact+dragoncraft@dragon-fly.club)
+
+## Telegram 群组
+
+[DragonCraft Premium](https://t.me/dragoncraft_premium)

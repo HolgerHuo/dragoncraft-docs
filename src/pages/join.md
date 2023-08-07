@@ -16,6 +16,8 @@ DragonCraft是**原版生存**服务器，**不设置**生存玩家和管理员�
 
 请勿轻信任何牵扯个人隐私和财产的信息、请不要向任何人透露、在任何非 mojang 官方或自称 mojang 官方的地方输入自己的帐号密码或支付信息。
 
+DragonCraft 目前支持的版本是 Minecraft Bedrock/Pocket Edition 1.20.X，使用GeyserMC进行互联。
+
 <!--
 ### Public与Premium的区别
 
@@ -27,26 +29,22 @@ Public使用AuthMeReloaded插件验证，支持Java/PE Crossplay，为开放服�
 
 ## 加入要求
 
-- 已经[购买Minecraft Java版](https://minecraft.net/)及[DCP](https://ko-fi.com/dragonflyclub/commissions)。
-- 已下载好Minecraft Java 1.18 并使用正版账号登录
+- 已经[购买Minecraft Java版](https://minecraft.net/)或MinecraftPE及[DCP](https://ko-fi.com/dragonflyclub/commissions)。
+- 已下载好Minecraft Java/Bedrock 1.20 并使用正版账号登录
 - 已阅读[教程](/help)及[规则](/rules)
 
 ## 登陆服务器
 
 启动 Minecraft 客户端后，请添加服务器地址：
 
-<!--
-|      |                      Public                      |          Premium          |
-| :--: | :------------------------------------------------: | :-----------------------: |
-| Java |           ~~loveumartin.dragon-fly.club~~           | minecraft.dragon-fly.club |
-|  PE  | ~~地址：loveumartin-pe.dragon-fly.club 端口：30666~~ |             /             |
--->
-
-`minecraft.dragon-fly.club`
+`minecraft.dragon-fly.club` (如你的DNS服务器被污染请连接至dynmap.holger.net.cn，端口号均为默认端口号)
 
 即可进入游戏。
 
 
+## 链接你的Minecraft Java与PE账号数据
+
+参见[/linkaccount](https://minecraft.dragon-fly.club/help#linkaccount)
 
 ## 更多资源
 

@@ -35,12 +35,6 @@ const config = {
   ],
   scripts: [
     {
-      src: 'https://stats.dragoncloud.win/umami.js',
-      'data-website-id': '453a8f40-f90a-48b0-a129-1ea6c7d4695e',
-      defer: true,
-      async: true,
-    },
-    {
       src: 'https://report.dragoncloud.win/js/script.outbound-links.file-downloads.tagged-events.js', 
       defer: true, 
       'data-domain': 'minecraft.dragon-fly.club'
